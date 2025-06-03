@@ -4,7 +4,7 @@
 
 <p>
   The dataset is acquired from 
-  <a href="https://www.kaggle.com/datasets/kmader/pulmonary-chest-xray-abnormalities" target="_blank">
+  <a href="https://www.kaggle.com/datasets/vinadsa/chest-x-ray-for-pneumonia-dataset" target="_blank">
     Kaggle: Pulmonary Chest X-ray Abnormalities
   </a>, which contains:
 </p>
@@ -21,7 +21,7 @@
 import kagglehub
 
 # Download latest version
-path = kagglehub.dataset_download("kmader/pulmonary-chest-xray-abnormalities")
+path = kagglehub.dataset_download("vinadsa/chest-x-ray-for-pneumonia-dataset")
 print("Path to dataset files:", path)
 </code>
 </pre>
