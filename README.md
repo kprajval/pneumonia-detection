@@ -1,1 +1,1 @@
-# pneumonia-detection
+# Pneumonia-detection
