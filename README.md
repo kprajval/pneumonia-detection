@@ -5,7 +5,7 @@
 <p>
   The dataset is acquired from 
   <a href="https://www.kaggle.com/datasets/vinadsa/chest-x-ray-for-pneumonia-dataset" target="_blank">
-    Kaggle: Pulmonary Chest X-ray Abnormalities
+    Kaggle: Chest X-Ray for Pneumonia Dataset
   </a>, which contains:
 </p>
 
